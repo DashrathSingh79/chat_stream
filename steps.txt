@@ -59,7 +59,7 @@ sudo usermod -aG docker $USER  && newgrp docker
 
 (c). Now we will clone our github repository 
 
-git clone https://github.com/1602saurab/chatbot_stream.git
+git clone https://github.com/gitusername/gitrepo.git
 
 
 (d). Now we will create Docker Image 
