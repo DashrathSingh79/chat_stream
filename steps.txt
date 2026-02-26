@@ -59,7 +59,11 @@ sudo usermod -aG docker $USER  && newgrp docker
 
 (c). Now we will clone our github repository 
 
+<<<<<<< HEAD
 git clone https://github.com/gituser/repo_name.git
+=======
+git clone https://github.com/gitusername/gitrepo.git
+>>>>>>> 5feca3920e5a63d99ac7f07368adc6ed0720b653
 
 
 (d). Now we will create Docker Image 
