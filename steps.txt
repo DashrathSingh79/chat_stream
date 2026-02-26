@@ -71,3 +71,7 @@ git clone https://github.com/gitusername/gitrepo.git
 docker build -t <docker_image_name> . 
 
 docker run -d -p 8501:8501 --env-file .env query_bot_app:latest
+
+
+-- updated 
+Ai bot + redis implimentation 
